@@ -54,13 +54,13 @@ Asena.addCommand({on: 'text', fromMe: false }, (async (message, match) => {
     if(Config.BGMFILTER){
         let banned = jid.find( Jid => Jid === message.jid);
         if(banned !== undefined) return
-        if (!!message.mention && message.mention[0] == '919605101516@s.whatsapp.net') {
+        if (!!message.mention && message.mention[0] == '917025191792@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/6238560742.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
         }
-        if (!!message.mention && message.mention[0] == '917736771516@s.whatsapp.net') {
+        if (!!message.mention && message.mention[0] == '917025191792@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/6238560742.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
         }
-const array = ['1','1642704524109','2','6238560742','ANU','Aa','Aah','Aarulle','Adipoli','Hi','KHADHER','SUIII','Bgm','Cosmic','Hello','Hy','Lubb','Poli','girls','owner','Neymar','Ayn']
+const array = ['1','1642704524109','2','6238560742','ANU','Aa','Aah','Aarulle','Adipoli','Hi','KHADHER','SUIII','Bgm','Cosmic','Hello','Hy','Lubb','Poli','girls','owner','Neymar','Ayn','Bgm']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
@@ -129,7 +129,7 @@ await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/6238560
         if (!!message.mention && message.mention[0] == '917736771516@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/6238560742.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
         }
-const array = ['1','1642704524109','2','6238560742','ANU','Aa','Aah','Aarulle','Adipoli','Hi','KHADHER','SUIII','Bgm','Cosmic','Hello','Hy','Lubb','Poli','Ayn']
+const array = ['1','1642704524109','2','6238560742','ANU','Aa','Aah','Aarulle','Adipoli','Hi','KHADHER','SUIII','Bgm','Cosmic','Hello','Hy','Lubb','Poli','Ayn','Bgm','Owner']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
