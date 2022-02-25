@@ -1,4 +1,7 @@
->< KHADHER DONT EDIT BOT IT WILL BE ABLE TO GET CHANCE FOR ERRORS
+>< ᴍᴀᴅᴇ ʙy ᴋʜᴀᴅʜᴇʀ & ꜱɪʜᴀɴ
+
+
+ ><DONT EDIT BOT IT WILL BE ABLE TO GET CHANCE FOR ERRORS
 
 <div align="center
 <div align="center"
