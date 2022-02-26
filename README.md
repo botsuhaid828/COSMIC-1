@@ -1,17 +1,17 @@
-)
+
   
      
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/0hsklk8.jpeg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="COSMIC" src="http
+<a href="#"><img title="COSMIC" src="https://img.shields.io/badge/COSMIC-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/khadher05"><img title="Author" src="https://img.shields.io/badge/Author-khadher05/COSMIC?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/khadher05">KHADHER-dqz</a> to make it public
+Project created by <a href="https://github.com/khadher05">KHADHER</a> to make it public
     <br>
        | © |
         Reserved |
