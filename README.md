@@ -52,9 +52,6 @@ Click WA logo to Join Support Group 👇
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Khadher05/KHADHER-BOT-QR)
 
 
-   ɪꜰ yᴏᴜ ʜᴀᴠɪɴɢ ᴀɴy ɪꜱꜱᴜᴇꜱ ᴡʜɪʟᴇ ᴅɪᴩʟᴏyɪɴɢ ᴛʜɪꜱ ʀᴇᴩᴏ 
-      
-     ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ ᴏᴡɴᴇʀ ʙy ᴩʀᴇꜱꜱɪɴɢ ᴛʜᴇʀ ᴏᴡɴᴇʀ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ
- <p align="center">
-<a href="wa.me/917025191792"><img title="AUTHOR" src="https://img.shields.io/badge/ᴏᴡɴᴇʀ?color=blue&style=for-the-badge&logo=whatsapp"></a>
-</p>
+  ɪꜰ yᴏᴜ ʜᴀᴠɪɴɢ ᴀɴy ɪꜱꜱᴜᴇ ᴡʜɪʟᴇ ᴅᴇᴩʟᴏyɪɴɢ                       
+  ᴊᴏɪɴ ᴏᴜʀ ᴩᴜʙʟɪᴄ ɢʀᴏᴜᴩ ᴀɴᴅ ᴍᴇꜱꜱᴇɢᴇ ᴛᴏ ᴀᴅᴍɪɴ
+
