@@ -56,5 +56,5 @@ Click WA logo to Join Support Group 👇
       
      ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ ᴏᴡɴᴇʀ ʙy ᴩʀᴇꜱꜱɪɴɢ ᴛʜᴇʀ ᴏᴡɴᴇʀ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ
  <p align="center">
-<a href="wa.me/917025191792"><img title="AUTHOR" src="https://img.shields.io/badge/OWNER-khadher05/COSMIC?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="wa.me/917025191792"><img title="AUTHOR" src="https://img.shields.io/badge/ᴏᴡɴᴇʀ?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
