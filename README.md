@@ -52,6 +52,17 @@ Click WA logo to Join Support Group 👇
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Khadher05/KHADHER-BOT-QR)
 
 
+      IF YOU WANT TO FORK CLICK FORK BUTTON BELOW👇
+     
+<br>
+<a href="https://github.com/khadher05/COSMIC/fork"><img align="center" src="/language/repo.png" alt="Fork and deploy" height="112" width="300" /></a>
+   <br>
+<div>
+
+       
+
+
+
   ɪꜰ yᴏᴜ ʜᴀᴠɪɴɢ ᴀɴy ɪꜱꜱᴜᴇ ᴡʜɪʟᴇ ᴅᴇᴩʟᴏyɪɴɢ                       
   ᴊᴏɪɴ ᴏᴜʀ ᴩᴜʙʟɪᴄ ɢʀᴏᴜᴩ ᴀɴᴅ ᴍᴇꜱꜱᴇɢᴇ ᴛᴏ ᴀᴅᴍɪɴ
 
